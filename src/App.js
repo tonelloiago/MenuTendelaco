@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import FullWidthGrid from './Components/Cardapio'
 
 function App() {
